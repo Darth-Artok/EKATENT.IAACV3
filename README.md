@@ -1,2 +1,20 @@
-# EKATENT.IAACV3
-He creado un nuevo archivo python_runner.py que contiene el script en Python solicitado. Este script maneja el caché de recursos (descarga "Meta" una sola vez, pero renueva el "Haiku") e implementa la lógica de respuestas con personalidad variable. Además, he actualizado la aplicación React para integrar la lógica de comparación en tiempo real.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/1v51Mv6VdBGhgRsdJmJpctzeR7a9jWI3w
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

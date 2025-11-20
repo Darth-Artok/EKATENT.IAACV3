@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Fortnite AI Assistant Coach",
+  "description": "An AI-powered tactical coach for Fortnite players that uses real-time computer vision from your webcam to analyze your gameplay and provides strategic advice using Gemini. Features a 'Tron-like' UI and allows users to submit gameplay footage for AI model improvement.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
