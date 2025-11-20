@@ -1,0 +1,16 @@
+{
+  "short_name": "IAAC",
+  "name": "Fortnite AI Assistant Coach",
+  "description": "An AI-powered tactical coach for Fortnite players that uses real-time computer vision from your webcam to analyze your gameplay and provides strategic advice using Gemini.",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0891b2",
+  "background_color": "#111827"
+}
